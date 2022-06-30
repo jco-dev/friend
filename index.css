@@ -8,6 +8,7 @@ h1 {
   color: hsla(0, 0%, 0%, 0.9);
   font: normal 40px Varela Round, sans-serif;
   font-size: calc(2em + 1vw);
+  text-align: center;
   height: 140px;
   left: 0;
   letter-spacing: 5px;
