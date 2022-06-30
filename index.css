@@ -7,6 +7,7 @@ body {
 h1 {
   color: hsla(0, 0%, 0%, 0.9);
   font: normal 40px Varela Round, sans-serif;
+  font-size: calc(3em + 1vw);
   height: 140px;
   left: 0;
   letter-spacing: 5px;
